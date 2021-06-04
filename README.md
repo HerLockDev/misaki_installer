@@ -34,8 +34,6 @@
 ### 🍎 IOS
 YAKINDA
 
-apk update && apk add bash && apk add curl && curl -L -o installer.sh https://bit.ly/DogeIOS && chmod +x installer.sh && bash installer.sh
-
 ----
 
 ### 💻 Windows 10
@@ -46,7 +44,7 @@ YAKINDA
 
 ## 🔗 Zor Kurulumlar | Difficult Installations
 ### 🌐 Manuel Kurulum | Manuel Installation
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ByMisakiMey/MisakiUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FByMisakiMey%2FMisakiUserBot)
 
 ----
 
