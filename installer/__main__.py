@@ -107,7 +107,7 @@ if __name__ == "__main__":
      #HaydiKardeşim kendi reponu yazamadınmı başka kapıya yok sana auto#
     SyperStringKey = "MisakiUserBot/"
     GiperStringKey = "HerLockDev/"
-    InvalidKey = "moc.buhtig//:sptth" 
+    InvalidKey = "http://github.com/" 
     str1 = SyperStringKey+GiperStringKey+InvalidKey
     stringlength=len(str1)
     slicedString=str1[stringlength::-1]
